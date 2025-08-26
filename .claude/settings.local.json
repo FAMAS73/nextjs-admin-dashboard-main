@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Z:\\SteamLibrary\\steamapps\\common\\Assetto Corsa Competizione Dedicated Server\\server\\cfg/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
